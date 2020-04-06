@@ -10,7 +10,7 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "NjQ5MzMxNTI1ODI5MDAxMjIw.XnPRvw.foD6yIT80DGITn2K7xtJwetTWaw",
+    token: "NjQ5MzMxNTI1ODI5MDAxMjIw.Xor2Qg.vjegsvXa1JaHfMY0-at5EdklbaU",
     prefix: "+",
     gameStatus: "over Server Name",
     statusType: "WATCHING",
